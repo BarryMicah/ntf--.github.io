@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(8, 8, 78);
+    font-family: Humnst777 Lt BT;
+}
+.main{
+    background-color: rgb(1, 1, 77);
+    width: 300px;
+    height:470px;
+    margin:auto;
+   margin-top: 50px;
+   border-radius: 15px;
+}
+.mback{
+    background-color: rgb(3, 3, 58);
+    width: 350px;
+    height:500px;
+    margin:auto;
+    border-radius: 20px;
+}
+.img {
+    height:250px;
+    width:250px;
+    border-radius: 10px;
+    margin-top: 20px;
+    position: relative;
+}
+h5 a{
+    color:azure;
+    text-decoration: none;
+}
+ h5 a:hover{
+    color:#00FFF8;
+}
+  p a{
+      color:white;
+      text-decoration: none;
+  }  
+p a:hover{
+    color:#00FFF8;
+}
